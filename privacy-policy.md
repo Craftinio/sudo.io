@@ -1,4 +1,4 @@
-# Privacy Policy – Sudo (Sudoku App)
+# Privacy Policy – Sudo- Classic Sudoku Game
 
 Last updated: December 2025
 
