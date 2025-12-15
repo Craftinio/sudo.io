@@ -1,6 +1,6 @@
 # Privacy Policy – Sudo (Sudoku App)
 
-Last updated: January 2025
+Last updated: December 2025
 
 Thank you for using **Sudo**, our mobile Sudoku application.  
 Your privacy is important to us. This Privacy Policy explains what data we collect, how we use it, and how we protect your information.
